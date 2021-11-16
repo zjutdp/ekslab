@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: '现代应用开发',
+  title: 'EKS工作坊',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
