@@ -35,19 +35,18 @@ module.exports = {
     nav: [
       {
         text: '实验手册',
-        link: '/eks/service/',
+        link: '/guide/',
       }
     ],
     sidebar: {
-      '/eks/service/': [
+      '/guide/': [
         {
           title: '实验手册',
           collapsable: false,
           children: [
             'lab1-environment',
-            'lab3-observability',
             'lab4-createcluster',
-            'lab5-deploy'
+            'lab3-deploy'
           ]
         }
       ],
