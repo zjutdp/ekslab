@@ -35,11 +35,11 @@ module.exports = {
     nav: [
       {
         text: '实验手册',
-        link: '/guide/',
+        link: '/eks/service/',
       }
     ],
     sidebar: {
-      '/guide/': [
+      '/eks/service/': [
         {
           title: '实验手册',
           collapsable: false,
